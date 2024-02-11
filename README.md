@@ -11,3 +11,10 @@ In this repository, I document my progress and improvement in Python programming
 Feel free to explore the code, provide feedback, or suggest improvements. Let's learn Python together and grow our programming skills!
 
 Happy coding! 🐍✨
+
+## Projects
+
+| idx | Project name            | Description                           |
+| --- | ----------------------- | ------------------------------------- |
+| 1   | Rock, paper or scissors | [What i leraned](/rps-game/README.md) |
+| 2   | Comming soon            | ....                                  |
