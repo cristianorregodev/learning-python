@@ -1,4 +1,4 @@
-Welcome to my Python Learning Journey repository!
+# Welcome to my Python Learning Journey repository!
 
 In this repository, I document my progress and improvement in Python programming language by uploading small projects, exercises, and resources. From basic syntax to advanced concepts, you'll find a variety of Python code snippets and projects that reflect my learning path.
 
