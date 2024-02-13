@@ -26,7 +26,7 @@ These are some of the Python concepts that can be learned from the provided code
 
 To execute the game you only need to clone this project and then in your terminal run the main file --> rps-game/main.py
 
-```bash
+```sh
 # clone de repo
 git clone https://github.com/cristianorregodev/learning-python.git
 

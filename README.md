@@ -14,7 +14,8 @@ Happy coding! 🐍✨
 
 ## Projects
 
-| idx | Project name            | Description                           |
-| --- | ----------------------- | ------------------------------------- |
-| 1   | Rock, paper or scissors | [What i leraned](/rps-game/README.md) |
-| 2   | Comming soon            | ....                                  |
+| idx | Project name            | Description                                    |
+| --- | ----------------------- | ---------------------------------------------- |
+| 1   | Rock, paper or scissors | [What i leraned](/rps-game/README.md)          |
+| 2   | Basic chart example     | [What i leraned](/matplotlib-charts/README.md) |
+| 3   | Cooming soon            | ...                                            |
