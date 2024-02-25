@@ -31,7 +31,7 @@ git clone https://github.com/cristianorregodev/learning-python.git
 #open the project
 cd learning-python
 
-#run rps-game
+#run the application
 python3 matplotlib-charts/main.py
 
 ```
