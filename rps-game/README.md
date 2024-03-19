@@ -2,7 +2,7 @@
 
 Rock, Paper, Scissors is a classic hand game where two players compete to choose one of three options: rock, paper, or scissors. The rules are simple: rock crushes scissors, scissors cuts paper, and paper covers rock. The game is played in rounds, with each player selecting their choice simultaneously. The winner of each round is determined based on the rules, and the first player to win two rounds is declared the overall winner. It's a fun and easy-to-learn game that can be enjoyed by people of all ages
 
-## What i leraned
+## What i learned
 
 -   **Functions**: The code uses functions to modularize the rock, paper, scissors game process. Functions like choose_options, check_rules, and run_game break down the code into smaller, manageable parts, making it easier to understand and maintain.
 

@@ -19,7 +19,8 @@ Happy coding! 🐍✨
 | 1   | Rock, paper or scissors | [What i leraned](/rps-game/README.md)          |
 | 2   | Basic chart example     | [What i leraned](/matplotlib-charts/README.md) |
 | 3   | Pupulation charts       | [What i leraned](/population-charts/README.md) |
-| 4   | Web server              | Coming soon...                                 |
+| 4   | Web server              | [What i leraned](/web-server/README.md)        |
+| 5   | Basic API               | Coming soon..                                  |
 
 ## Commands ⌨️
 
