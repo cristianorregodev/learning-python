@@ -245,6 +245,9 @@ $RECYCLE.BIN/
 *.msp
 
 # Windows shortcuts
-*.lnk
+*.lnks
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,python
+
+# Databases
+*.sqlite
