@@ -20,7 +20,7 @@ Happy coding! 🐍✨
 | 2   | Basic chart example     | [What i leraned](/matplotlib-charts/README.md) |
 | 3   | Pupulation charts       | [What i leraned](/population-charts/README.md) |
 | 4   | Web server              | [What i leraned](/web-server/README.md)        |
-| 5   | Basic API               | Coming soon..                                  |
+| 5   | Basic API               | [What i leraned](/fast-api/README.md)          |
 
 ## Commands ⌨️
 
